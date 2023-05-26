@@ -1,1 +1,0 @@
-# DALEC_SIP
