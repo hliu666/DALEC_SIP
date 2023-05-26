@@ -1,0 +1,8 @@
+SiteName,CODE,Start,End,Lat ,Lon,LMA,Cab,Clab,Onset_k,Onset_b
+Harvard_forest,HARV,2017,2021,42.537,-72.173,66.44,40,110,0.3924,20.64
+Bartlett_Experimental_Forest,BART,2017,2021,44.0639,-71.2874,60,55,100,0.3924,18
+Steigerwaldt_Land_Services,STEI,2018,2021,45.509,-89.586,73.4,45,100,0.2,10.64
+Kansas_Field_Station,UKFS,2019,2021,39.04,-95.192,54.6,34.38,120,0.3924,20.64
+Great_Smoky_Mountains_National_Park,GRSM,2017,2021,35.689,-83.502,59,45,140,0.3924,20.64
+Dead_Lake,DELA,2017,2021,32.542,-87.804,50,46.36,140,0.3924,20.64
+National_Grassland,CLBJ,2018,2021,33.401,-97.57,50,45,110,0.3924,20.64
